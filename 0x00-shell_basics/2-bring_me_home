@@ -1,1 +1,2 @@
-back to parent dir
+#!/bin/bash
+echo $HOME
